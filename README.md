@@ -6,5 +6,7 @@ main文件夹里的check ，column，cres文件夹下放的是初始解，check�
 column是解的具体样子，cres是存储的航段序号
 对应的newcheck,newcolumn,newres放的是新生成的环的解的样子，具体含义参照上述三个文件。
 
+data里放的data2是航段数据，时间转换为了时间戳。data22是时间是正常时间，参看用。
+initial1.txt放了初始环的数据。
 
 
